@@ -1,5 +1,5 @@
 i=1
-print "xin moi nhap vao\n"
+print "xin moi nhap mot so bat ki\n"
 	n=gets.to_i
 if n<=1
 	print"n khong phai so nguyen to \n"
@@ -10,8 +10,8 @@ elsif
 		end
 	end
 	if i==0
-		print "n ko p so nt"
+		print "n khong phai so nguyen to"
 	elsif i==1
-		print"n la so nt"
+		print"n la so nguyen to"
 	end
 end
